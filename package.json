@@ -4,7 +4,7 @@
   "main": "dist/index.cjs.js",
   "module": "dist/index.esm.js",
   "repository": {
-    "url": "https://github.com/michal-wrzosek/p2p-chat",
+    "url": "https://github.com/maulik882/chitchatwithme",
     "type": "git"
   },
   "license": "MIT",
